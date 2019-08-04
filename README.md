@@ -1,4 +1,4 @@
-# Basic-Portfolio
+# Responsive-Portfolio
 About Me 
 -This section includes a picture of me with a bio about myself.
 -Navbar located at top-right for easy navigation to rest of site.
